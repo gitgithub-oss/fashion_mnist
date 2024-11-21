@@ -1,16 +1,4 @@
-# fashion_mnist
+# fashion_mnist 예제
 #fashion_mnist_w_tensorboard 분석
 
 
-# tensorflow, tf.keras 임포트
-import tensorflow as tf
-from tensorflow import keras
-
-# helper 라이브러리 임포트
-import numpy as np
-import matplotlib.pyplot as plt
-
-from datetime import datetime
-import os
-
-#print(tf.__version__)
